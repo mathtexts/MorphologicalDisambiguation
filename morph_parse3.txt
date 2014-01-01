@@ -1,0 +1,16 @@
+word=миру
+morph=мир
+tag=NOUN,inan,masc sing,loc2
+morph=миро
+tag=NOUN,inan,neut sing,datv
+morph=мир
+tag=NOUN,inan,masc sing,datv
+morph=мир
+tag=NOUN,inan,masc sing,gen2
+word=мир
+morph=мир
+tag=NOUN,inan,masc sing,accs
+morph=миро
+tag=NOUN,inan,neut plur,gent
+morph=мир
+tag=NOUN,inan,masc sing,nomn
